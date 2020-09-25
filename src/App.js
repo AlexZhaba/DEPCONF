@@ -55,7 +55,7 @@ let SignUp = () => {
       <CustomInput title="password" value={password} change={setPassword}/>
       <CustomInput title="confirm password" value={confPassword} change={setConfPassword}/>
       <div className="button__container" onClick={() => sendSignInData()}>
-        Confirm
+        AcceptMyFuckingGoodness
       </div>
     </div>
   );
