@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DEPCONF/static/css/main.430aa1cf.chunk.css",
-    "main.js": "/DEPCONF/static/js/main.501d297a.chunk.js",
-    "main.js.map": "/DEPCONF/static/js/main.501d297a.chunk.js.map",
+    "main.js": "/DEPCONF/static/js/main.fbfc541f.chunk.js",
+    "main.js.map": "/DEPCONF/static/js/main.fbfc541f.chunk.js.map",
     "runtime-main.js": "/DEPCONF/static/js/runtime-main.70d89e85.js",
     "runtime-main.js.map": "/DEPCONF/static/js/runtime-main.70d89e85.js.map",
     "static/js/2.c5e9511c.chunk.js": "/DEPCONF/static/js/2.c5e9511c.chunk.js",
     "static/js/2.c5e9511c.chunk.js.map": "/DEPCONF/static/js/2.c5e9511c.chunk.js.map",
     "index.html": "/DEPCONF/index.html",
-    "precache-manifest.4ef807837b539dd3534f3b85d3b03d85.js": "/DEPCONF/precache-manifest.4ef807837b539dd3534f3b85d3b03d85.js",
+    "precache-manifest.87e7eec32d39eae9f7e12bae88d398d4.js": "/DEPCONF/precache-manifest.87e7eec32d39eae9f7e12bae88d398d4.js",
     "service-worker.js": "/DEPCONF/service-worker.js",
     "static/css/main.430aa1cf.chunk.css.map": "/DEPCONF/static/css/main.430aa1cf.chunk.css.map",
     "static/js/2.c5e9511c.chunk.js.LICENSE.txt": "/DEPCONF/static/js/2.c5e9511c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.70d89e85.js",
     "static/js/2.c5e9511c.chunk.js",
     "static/css/main.430aa1cf.chunk.css",
-    "static/js/main.501d297a.chunk.js"
+    "static/js/main.fbfc541f.chunk.js"
   ]
 }
