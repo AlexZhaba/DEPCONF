@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlexZhaba/DEPCONF.git/static/css/main.430aa1cf.chunk.css",
+    "main.js": "/AlexZhaba/DEPCONF.git/static/js/main.ef427c79.chunk.js",
+    "main.js.map": "/AlexZhaba/DEPCONF.git/static/js/main.ef427c79.chunk.js.map",
+    "runtime-main.js": "/AlexZhaba/DEPCONF.git/static/js/runtime-main.43b3b078.js",
+    "runtime-main.js.map": "/AlexZhaba/DEPCONF.git/static/js/runtime-main.43b3b078.js.map",
+    "static/js/2.c5e9511c.chunk.js": "/AlexZhaba/DEPCONF.git/static/js/2.c5e9511c.chunk.js",
+    "static/js/2.c5e9511c.chunk.js.map": "/AlexZhaba/DEPCONF.git/static/js/2.c5e9511c.chunk.js.map",
+    "index.html": "/AlexZhaba/DEPCONF.git/index.html",
+    "precache-manifest.fbf8d34faf3de1bb3ad773cf4c3496e0.js": "/AlexZhaba/DEPCONF.git/precache-manifest.fbf8d34faf3de1bb3ad773cf4c3496e0.js",
+    "service-worker.js": "/AlexZhaba/DEPCONF.git/service-worker.js",
+    "static/css/main.430aa1cf.chunk.css.map": "/AlexZhaba/DEPCONF.git/static/css/main.430aa1cf.chunk.css.map",
+    "static/js/2.c5e9511c.chunk.js.LICENSE.txt": "/AlexZhaba/DEPCONF.git/static/js/2.c5e9511c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AlexZhaba/DEPCONF.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43b3b078.js",
+    "static/js/2.c5e9511c.chunk.js",
+    "static/css/main.430aa1cf.chunk.css",
+    "static/js/main.ef427c79.chunk.js"
+  ]
+}
